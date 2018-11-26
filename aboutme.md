@@ -8,9 +8,11 @@ I am a current student at Lambda School studying:
 
 - Data Science 
 - Machine Learning
+- Python
+- Pandas
 
-A short history of me
+Topics that interest me:
 
-### my history
+### topics
 
-Insert history here 
+Insert focus of projects here 
