@@ -17,6 +17,6 @@ Topics that interest me:
 - Brain Computer Interfacing 
 
 ### Project Focus
-Better understanding how the relationship between car and driver will evolve in the years to come. Machine learning has the ability to bring about self driving cars as well as more intuitive cars that can learn an intuition for an idividuals driving habits.
+To find a better understanding of how the relationship between car and driver will evolve in the years to come. Machine learning has the ability to bring about self driving cars as well as more intuitive cars that can gain an intuition for an idividuals driving habits.
 
 
