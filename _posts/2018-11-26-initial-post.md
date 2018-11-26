@@ -1,8 +1,9 @@
 ---
 layout: post
-title: title of the post 
-subtitle: brief summary of the subject
-image: /Dpgofast.github.io/Beware-of-airplane-sign-on-the-street.jpg
+title: Vehicle Repair Preidictor
+subtitle: What types of repairs you will need for your vehicle
+image: /Dpgofast.github.io/AdobeStock_4355105_Preview.jpeg
+      
 ---
 
 content goes here im  
