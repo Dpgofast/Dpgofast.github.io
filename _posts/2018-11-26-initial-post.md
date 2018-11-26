@@ -2,7 +2,7 @@
 layout: post
 title: title of the post 
 subtitle: brief summary of the subject
-image: /https://github.com/Dpgofast/Dpgofast.github.io/blob/master/Beware-of-airplane-sign-on-the-street.jpg
+image: /Dpgofast.github.io/Beware-of-airplane-sign-on-the-street.jpg
 ---
 
 content goes here im  
