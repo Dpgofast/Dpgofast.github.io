@@ -4,7 +4,7 @@ title: About me
 subtitle: Hello, I'm Dakota Pope. 
 ---
 Location:
-## St.Louis, Missouri
+#### St.Louis, Missouri
 Fields of study:
 
 - Data Science 
